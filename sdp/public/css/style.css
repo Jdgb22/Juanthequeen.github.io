@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: #efefef;
+    text-align: center;
+}
+header{
+    padding: 3rem 2rem;
+    color: white;
+    background-color: rgb(250, 92, 18);
+    font-family: 'Tilt Neon', sans-serif;;
+    text-align: center;
+}
+button{
+    background-color: rgb(250, 92, 18);
+    color: white;
+    padding: 5px 10px;
+    margin-top: 5px;
+    border: none;
+    cursor:pointer;
+    font-size: 25px;
+    font-family: 'Tilt Neon', sans-serif;
+    text-align: center;
+}
+button:hover{
+    background-color: black;
+}
